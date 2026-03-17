@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/calci123/calci123/refs/heads/main/media/calci123-bg-2026.png" alt="GitHub" width="100%" />
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbOb3UpXNuE9bpLi_BiTbkg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calci123@proton.me) 
